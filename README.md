@@ -73,11 +73,6 @@ npm run dev
 ### PDF Report
 ![Report](assets/screenshots/pdf-report.png)
 
-## Team Members
-- Varshitha Kornepati
-- Team Member 2
-- Team Member 3
-- Team Member 4
 
 ## Future Enhancements
 - Resume screening integration
