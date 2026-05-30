@@ -57,7 +57,21 @@ npm run dev
 ```
 
 ## Screenshots
-(Project screenshots will be added here)
+
+### Landing Page
+![Landing](assets/screenshots/landing-page.png)
+
+### Bias Dashboard
+![Dashboard](assets/screenshots/bias-dashboard.png)
+
+### SHAP Output
+![SHAP](assets/screenshots/shap-output.png)
+
+### Candidate Audit
+![Audit](assets/screenshots/candidate-audit.png)
+
+### PDF Report
+![Report](assets/screenshots/pdf-report.png)
 
 ## Team Members
 - Varshitha Kornepati
