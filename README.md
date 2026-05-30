@@ -1,37 +1,72 @@
-# FAIRHIRE – AI Hiring Auditor
+# FAIRHIRE – AI Hiring Bias Detection & Audit Platform
 
-FAIRHIRE is an AI-powered hiring audit platform that detects bias in recruitment decisions.
+## Overview
+FAIRHIRE is an AI-powered hiring audit platform designed to identify and analyze recruitment bias using fairness metrics and analytics. The platform helps organizations promote fair hiring practices through transparent reporting and bias detection.
+
+## Problem Statement
+Recruitment systems may unintentionally introduce bias based on factors such as gender, education, or region. FAIRHIRE addresses this issue by auditing hiring data and providing fairness insights through visual analytics and reports.
 
 ## Features
-- CSV upload
-- Bias detection
-- Gender/Region/Education fairness metrics
-- Audit reports
-- Candidate database
-- PDF export
-- Dashboard analytics
-- MongoDB storage
-- Authentication
+- Bias detection and analysis
+- Fairness metrics dashboard
+- Data visualization and analytics
+- PDF audit report generation
+- User-friendly interface
+- Secure data handling
 
 ## Tech Stack
-Frontend:
+
+### Frontend
 - React
 - TypeScript
-- Vite
-- TailwindCSS
+- Tailwind CSS
 
-Backend:
+### Backend
 - Node.js
 - Express.js
+
+### Database
 - MongoDB
-- Mongoose
 
-## Run
+### Other Tools
+- GitHub
+- Postman
 
-Frontend:
+## Project Workflow
+Data Upload → Processing → Bias Detection → Dashboard Analytics → Report Generation
+
+## Installation
+
+### Clone Repository
+```bash
+git clone https://github.com/Varshitha-567/FAIRHIRE.git
+```
+
+### Frontend Setup
+```bash
+cd frontend
 npm install
 npm run dev
+```
 
-Backend:
+### Backend Setup
+```bash
+cd backend
 npm install
 npm run dev
+```
+
+## Screenshots
+(Project screenshots will be added here)
+
+## Team Members
+- Varshitha Kornepati
+- Team Member 2
+- Team Member 3
+- Team Member 4
+
+## Future Enhancements
+- Resume screening integration
+- Advanced ML fairness models
+- Cloud deployment
+- Real-time monitoring
