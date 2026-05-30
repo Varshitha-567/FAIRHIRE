@@ -2,8 +2,8 @@
 
 ## Live Demo
 
-**Frontend:** https://fairhire-seven.vercel.app
-**Backend API:** https://fairhire-backend-xg3f.onrender.com
+* **Frontend:** https://fairhire-seven.vercel.app
+* **Backend API:** https://fairhire-backend-xg3f.onrender.com
 
 ---
 
