@@ -1,7 +1,11 @@
-import axios from "axios";
+import api from "./api";
 
-const api = axios.create({
-  baseURL: `${import.meta.env.VITE_API_URL}/api`
-});
+export const getAudits = async () => {
+  const res = await api.get("/audits");
+  return res.data;
+};
 
-export default api;
+export const createAudit = async (data: any) => {
+  const res = await api.post("/audits", data);
+  return res.data;
+};
