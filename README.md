@@ -145,15 +145,3 @@ JWT_SECRET=your_secret_key
 * Cloud scalability improvements
 * Role-based access control
 * Predictive hiring insights
-
----
-
-## Project Team
-
-Developed as part of the IOMP FAIRHIRE project initiative.
-
----
-
-## License
-
-This project is intended for educational and research purposes.
