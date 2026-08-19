@@ -145,3 +145,9 @@ JWT_SECRET=your_secret_key
 * Cloud scalability improvements
 * Role-based access control
 * Predictive hiring insights
+
+## Compiler Design Cloud Deployment Assignment
+
+Development Environment Update
+
+This change was made in the dev branch for environment testing and deployment verification.
